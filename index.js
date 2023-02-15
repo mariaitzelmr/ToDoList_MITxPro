@@ -24,7 +24,7 @@ function App() {
     };
     return (
         <div className="app">
-            <div className="title"><h1>ToDo List</h1></div>
+            <div className="title"><h1>ToDo List2</h1></div>
             <div className="todo-list">
                 <div className="input">
                     <TodoForm addTodo={addTodo} />
